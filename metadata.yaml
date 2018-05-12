@@ -1,0 +1,32 @@
+_repo: Vesper-Talks-to-Girls_45641
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45641-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Knott, Laura A. (Laura Anna)
+    alias: Knott, Laura Anna
+    gutenberg_agent_id: '43393'
+    url: http://www.gutenberg.org/2009/agents/43393
+description: ''
+gutenberg_issued: '2014-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45641'
+  lccn: '16006728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcsh 'Students'
+- !lcc 'BJ'
+tableOfContents: New starts in life -- School friendships -- The art of living with
+  others -- Enduring hardness -- The rhythm of life -- The uses of trouble -- School
+  spirit -- Making the best of things -- Conflicting loyalties -- The value of discipline
+  -- The successful life -- The progress of woman -- Sources of happiness -- After
+  graduation.
+title: Vesper Talks to Girls
+url: http://www.gutenberg.org/ebooks/45641
